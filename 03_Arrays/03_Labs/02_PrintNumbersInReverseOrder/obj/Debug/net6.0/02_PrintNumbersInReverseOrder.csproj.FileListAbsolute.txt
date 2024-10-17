@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/02_PrintNumbersInReverseOrder/obj/Debug/net6.0/02_PrintNumbersInReverseOrder.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/02_PrintNumbersInReverseOrder/obj/Debug/net6.0/02_PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/02_PrintNumbersInReverseOrder/obj/Debug/net6.0/02_PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/02_PrintNumbersInReverseOrder/obj/Debug/net6.0/02_PrintNumbersInReverseOrder.AssemblyInfo.cs
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/02_PrintNumbersInReverseOrder/obj/Debug/net6.0/02_PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/02_PrintNumbersInReverseOrder/bin/Debug/net6.0/02_PrintNumbersInReverseOrder
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/02_PrintNumbersInReverseOrder/bin/Debug/net6.0/02_PrintNumbersInReverseOrder.deps.json
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/02_PrintNumbersInReverseOrder/bin/Debug/net6.0/02_PrintNumbersInReverseOrder.runtimeconfig.json
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/02_PrintNumbersInReverseOrder/bin/Debug/net6.0/02_PrintNumbersInReverseOrder.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/02_PrintNumbersInReverseOrder/bin/Debug/net6.0/02_PrintNumbersInReverseOrder.pdb
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/02_PrintNumbersInReverseOrder/obj/Debug/net6.0/02_PrintNumbersInReverseOrder.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/02_PrintNumbersInReverseOrder/obj/Debug/net6.0/refint/02_PrintNumbersInReverseOrder.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/02_PrintNumbersInReverseOrder/obj/Debug/net6.0/02_PrintNumbersInReverseOrder.pdb
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/02_PrintNumbersInReverseOrder/obj/Debug/net6.0/02_PrintNumbersInReverseOrder.genruntimeconfig.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/02_PrintNumbersInReverseOrder/obj/Debug/net6.0/ref/02_PrintNumbersInReverseOrder.dll
