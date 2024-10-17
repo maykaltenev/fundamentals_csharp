@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/01_DayOfWeek/bin/Debug/net6.0/01_DayOfWeek
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/01_DayOfWeek/bin/Debug/net6.0/01_DayOfWeek.deps.json
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/01_DayOfWeek/bin/Debug/net6.0/01_DayOfWeek.runtimeconfig.json
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/01_DayOfWeek/bin/Debug/net6.0/01_DayOfWeek.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/01_DayOfWeek/bin/Debug/net6.0/01_DayOfWeek.pdb
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/01_DayOfWeek/obj/Debug/net6.0/01_DayOfWeek.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/01_DayOfWeek/obj/Debug/net6.0/01_DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/01_DayOfWeek/obj/Debug/net6.0/01_DayOfWeek.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/01_DayOfWeek/obj/Debug/net6.0/01_DayOfWeek.AssemblyInfo.cs
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/01_DayOfWeek/obj/Debug/net6.0/01_DayOfWeek.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/01_DayOfWeek/obj/Debug/net6.0/01_DayOfWeek.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/01_DayOfWeek/obj/Debug/net6.0/refint/01_DayOfWeek.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/01_DayOfWeek/obj/Debug/net6.0/01_DayOfWeek.pdb
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/01_DayOfWeek/obj/Debug/net6.0/01_DayOfWeek.genruntimeconfig.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/02_DataTypesAndVariables/03_Arrays/03_Labs/01_DayOfWeek/obj/Debug/net6.0/ref/01_DayOfWeek.dll
