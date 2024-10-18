@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/fundamentals_csharp/03_Arrays/03_Exercise/02_CommonElements/obj/Debug/net6.0/02_CommonElements.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/03_Arrays/03_Exercise/02_CommonElements/obj/Debug/net6.0/02_CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/fundamentals_csharp/03_Arrays/03_Exercise/02_CommonElements/obj/Debug/net6.0/02_CommonElements.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/03_Arrays/03_Exercise/02_CommonElements/obj/Debug/net6.0/02_CommonElements.AssemblyInfo.cs
+/Users/begemoth/app/csharp/fundamentals_csharp/03_Arrays/03_Exercise/02_CommonElements/obj/Debug/net6.0/02_CommonElements.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/03_Arrays/03_Exercise/02_CommonElements/bin/Debug/net6.0/02_CommonElements
+/Users/begemoth/app/csharp/fundamentals_csharp/03_Arrays/03_Exercise/02_CommonElements/bin/Debug/net6.0/02_CommonElements.deps.json
+/Users/begemoth/app/csharp/fundamentals_csharp/03_Arrays/03_Exercise/02_CommonElements/bin/Debug/net6.0/02_CommonElements.runtimeconfig.json
+/Users/begemoth/app/csharp/fundamentals_csharp/03_Arrays/03_Exercise/02_CommonElements/bin/Debug/net6.0/02_CommonElements.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/03_Arrays/03_Exercise/02_CommonElements/bin/Debug/net6.0/02_CommonElements.pdb
+/Users/begemoth/app/csharp/fundamentals_csharp/03_Arrays/03_Exercise/02_CommonElements/obj/Debug/net6.0/02_CommonElements.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/03_Arrays/03_Exercise/02_CommonElements/obj/Debug/net6.0/refint/02_CommonElements.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/03_Arrays/03_Exercise/02_CommonElements/obj/Debug/net6.0/02_CommonElements.pdb
+/Users/begemoth/app/csharp/fundamentals_csharp/03_Arrays/03_Exercise/02_CommonElements/obj/Debug/net6.0/02_CommonElements.genruntimeconfig.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/03_Arrays/03_Exercise/02_CommonElements/obj/Debug/net6.0/ref/02_CommonElements.dll
