@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Labs/01_SignOfInteger/bin/Debug/net6.0/01_SignOfInteger
+/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Labs/01_SignOfInteger/bin/Debug/net6.0/01_SignOfInteger.deps.json
+/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Labs/01_SignOfInteger/bin/Debug/net6.0/01_SignOfInteger.runtimeconfig.json
+/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Labs/01_SignOfInteger/bin/Debug/net6.0/01_SignOfInteger.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Labs/01_SignOfInteger/bin/Debug/net6.0/01_SignOfInteger.pdb
+/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Labs/01_SignOfInteger/obj/Debug/net6.0/01_SignOfInteger.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Labs/01_SignOfInteger/obj/Debug/net6.0/01_SignOfInteger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Labs/01_SignOfInteger/obj/Debug/net6.0/01_SignOfInteger.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Labs/01_SignOfInteger/obj/Debug/net6.0/01_SignOfInteger.AssemblyInfo.cs
+/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Labs/01_SignOfInteger/obj/Debug/net6.0/01_SignOfInteger.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Labs/01_SignOfInteger/obj/Debug/net6.0/01_SignOfInteger.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Labs/01_SignOfInteger/obj/Debug/net6.0/refint/01_SignOfInteger.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Labs/01_SignOfInteger/obj/Debug/net6.0/01_SignOfInteger.pdb
+/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Labs/01_SignOfInteger/obj/Debug/net6.0/01_SignOfInteger.genruntimeconfig.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Labs/01_SignOfInteger/obj/Debug/net6.0/ref/01_SignOfInteger.dll
