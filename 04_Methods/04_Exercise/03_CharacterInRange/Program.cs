@@ -1,4 +1,6 @@
-﻿char start = Console.ReadLine()[0];
+﻿using System;
+
+char start = Console.ReadLine()[0];
 char end = Console.ReadLine()[0];
 GetCharactersInRange(start, end);
 
