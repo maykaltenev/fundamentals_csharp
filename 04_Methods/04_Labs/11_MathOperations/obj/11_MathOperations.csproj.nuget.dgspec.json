@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Exercise/01_SmallestOfThreeNumbers/01_SmallestOfThreeNumbers.csproj": {}
+    "/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Labs/11_MathOperations/11_MathOperations.csproj": {}
   },
   "projects": {
-    "/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Exercise/01_SmallestOfThreeNumbers/01_SmallestOfThreeNumbers.csproj": {
+    "/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Labs/11_MathOperations/11_MathOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Exercise/01_SmallestOfThreeNumbers/01_SmallestOfThreeNumbers.csproj",
-        "projectName": "01_SmallestOfThreeNumbers",
-        "projectPath": "/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Exercise/01_SmallestOfThreeNumbers/01_SmallestOfThreeNumbers.csproj",
+        "projectUniqueName": "/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Labs/11_MathOperations/11_MathOperations.csproj",
+        "projectName": "11_MathOperations",
+        "projectPath": "/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Labs/11_MathOperations/11_MathOperations.csproj",
         "packagesPath": "/Users/begemoth/.nuget/packages/",
-        "outputPath": "/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Exercise/01_SmallestOfThreeNumbers/obj/",
+        "outputPath": "/Users/begemoth/app/csharp/fundamentals_csharp/04_Methods/04_Labs/11_MathOperations/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/begemoth/.nuget/NuGet/NuGet.Config"
