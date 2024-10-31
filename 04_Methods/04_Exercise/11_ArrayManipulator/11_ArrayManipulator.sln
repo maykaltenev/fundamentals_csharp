@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11_ArrayManipulator", "11_ArrayManipulator.csproj", "{546BF1C7-52E5-415F-A455-6E9815DAA735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{546BF1C7-52E5-415F-A455-6E9815DAA735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546BF1C7-52E5-415F-A455-6E9815DAA735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546BF1C7-52E5-415F-A455-6E9815DAA735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546BF1C7-52E5-415F-A455-6E9815DAA735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BA3F744-1B40-47A2-AC4F-F72237725755}
+	EndGlobalSection
+EndGlobal
