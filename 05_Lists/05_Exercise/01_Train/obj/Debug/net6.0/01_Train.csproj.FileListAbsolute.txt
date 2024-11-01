@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/01_Train/bin/Debug/net6.0/01_Train
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/01_Train/bin/Debug/net6.0/01_Train.deps.json
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/01_Train/bin/Debug/net6.0/01_Train.runtimeconfig.json
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/01_Train/bin/Debug/net6.0/01_Train.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/01_Train/bin/Debug/net6.0/01_Train.pdb
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/01_Train/obj/Debug/net6.0/01_Train.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/01_Train/obj/Debug/net6.0/01_Train.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/01_Train/obj/Debug/net6.0/01_Train.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/01_Train/obj/Debug/net6.0/01_Train.AssemblyInfo.cs
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/01_Train/obj/Debug/net6.0/01_Train.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/01_Train/obj/Debug/net6.0/01_Train.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/01_Train/obj/Debug/net6.0/refint/01_Train.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/01_Train/obj/Debug/net6.0/01_Train.pdb
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/01_Train/obj/Debug/net6.0/01_Train.genruntimeconfig.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/01_Train/obj/Debug/net6.0/ref/01_Train.dll
