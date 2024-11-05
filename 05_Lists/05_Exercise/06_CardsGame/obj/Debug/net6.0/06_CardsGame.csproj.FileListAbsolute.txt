@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/06_CardsGame/obj/Debug/net6.0/06_CardsGame.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/06_CardsGame/obj/Debug/net6.0/06_CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/06_CardsGame/obj/Debug/net6.0/06_CardsGame.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/06_CardsGame/obj/Debug/net6.0/06_CardsGame.AssemblyInfo.cs
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/06_CardsGame/obj/Debug/net6.0/06_CardsGame.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/06_CardsGame/bin/Debug/net6.0/06_CardsGame
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/06_CardsGame/bin/Debug/net6.0/06_CardsGame.deps.json
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/06_CardsGame/bin/Debug/net6.0/06_CardsGame.runtimeconfig.json
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/06_CardsGame/bin/Debug/net6.0/06_CardsGame.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/06_CardsGame/bin/Debug/net6.0/06_CardsGame.pdb
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/06_CardsGame/obj/Debug/net6.0/06_CardsGame.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/06_CardsGame/obj/Debug/net6.0/refint/06_CardsGame.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/06_CardsGame/obj/Debug/net6.0/06_CardsGame.pdb
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/06_CardsGame/obj/Debug/net6.0/06_CardsGame.genruntimeconfig.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/06_CardsGame/obj/Debug/net6.0/ref/06_CardsGame.dll
