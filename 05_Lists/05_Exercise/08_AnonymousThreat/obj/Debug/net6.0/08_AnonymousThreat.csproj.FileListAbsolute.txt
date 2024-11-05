@@ -1,0 +1,15 @@
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/08_AnonymousThreat/bin/Debug/net6.0/08_AnonymousThreat
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/08_AnonymousThreat/bin/Debug/net6.0/08_AnonymousThreat.deps.json
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/08_AnonymousThreat/bin/Debug/net6.0/08_AnonymousThreat.runtimeconfig.json
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/08_AnonymousThreat/bin/Debug/net6.0/08_AnonymousThreat.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/08_AnonymousThreat/bin/Debug/net6.0/08_AnonymousThreat.pdb
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/08_AnonymousThreat/obj/Debug/net6.0/08_AnonymousThreat.csproj.AssemblyReference.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/08_AnonymousThreat/obj/Debug/net6.0/08_AnonymousThreat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/08_AnonymousThreat/obj/Debug/net6.0/08_AnonymousThreat.AssemblyInfoInputs.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/08_AnonymousThreat/obj/Debug/net6.0/08_AnonymousThreat.AssemblyInfo.cs
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/08_AnonymousThreat/obj/Debug/net6.0/08_AnonymousThreat.csproj.CoreCompileInputs.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/08_AnonymousThreat/obj/Debug/net6.0/08_AnonymousThreat.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/08_AnonymousThreat/obj/Debug/net6.0/refint/08_AnonymousThreat.dll
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/08_AnonymousThreat/obj/Debug/net6.0/08_AnonymousThreat.pdb
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/08_AnonymousThreat/obj/Debug/net6.0/08_AnonymousThreat.genruntimeconfig.cache
+/Users/begemoth/app/csharp/fundamentals_csharp/05_Lists/05_Exercise/08_AnonymousThreat/obj/Debug/net6.0/ref/08_AnonymousThreat.dll
